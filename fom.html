@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM OF BUYING THINGS</title>
+</head>
+<body bgcolor="yellow">
+ <center>
+        <h1>FORM OF SHOPING</h1>
+       <form>
+        Step 1: Your Details
+        <table border="1" height="150px" width="400px" bgcolor="lightgreen">
+            <tr>
+                <td>Name:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="fname" placeholder="First and Last name"></td>
+            </tr>
+             <tr>
+                <td>Email:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="email" name="email" placeholder="example@domain.com"></td>
+            </tr>
+             <tr>
+                <td><label for="phn">Phone:-</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="tel" name="phn" id="phn" placeholder="ex:9874569901" pattern="[0-9]{10}" required></td>
+            </tr>
+        </table><br>
+        Step 2: Delivery Address
+        <table border="1" height="150px" width="400px" bgcolor="lightgreen">
+            <tr>
+                <td>Address:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<textarea name="address" id="ad" cols="20" rows="5"></textarea></td>
+            </tr>
+             <tr>
+                <td>Post code:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" name="num"></td>
+            </tr>
+             <tr>
+                <td>Country:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="cnm"></td>
+            </tr>
+        </table><br>
+        Step 3: Card Details
+        <table border="1" height="150px" width="400px" bgcolor="lightgreen">
+            <tr>
+                <td>Card type:-<br>
+                    <input type="radio" name="card"><input type="image" src="visa.png" width="30px" alt="">VISA&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="card"><input type="image" src="amex.png" width="30px" alt="">AmEx&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="card"><input type="image" src="msc.jfif" width="30px" alt="">Mastercard
+                </td>
+            </tr>
+             <tr>
+                <td>Card number:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" name="nmu"></td>
+            </tr>
+             <tr>
+                <td>Security code:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" name="nmum"></td>
+            </tr>
+            <tr>
+                <td>Name on Card:-&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="nme" placeholder="Exact name as on the card"></td>
+            </tr>
+        </table><br>
+        <center><input type="image" src="bit.jfif" width="100px" alt=""></center>
+    </form></center>
+</body>
+</html>

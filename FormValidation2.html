@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="Fname">First Name : </label><input type="text" name="Fname" id="Fname" title="ex :- Rishi\." pattern="[A-Z][a-z]{3,5}[^\?,][.]?" > 
+        <!-- [A-Z][a-z]{1,10}[@#$*]? -->
+        <!-- [A-Z][a-z]{1,10}[@#$*] -->
+        <!-- [A-Z][a-z]{1,10} -->
+        <br><br>
+       <label for="pwd">Password : </label><input type="password" name="pwd" id="pwd" title="Min length 8 or Max length 15" pattern="[A-Z][a-z]{3,5}[@][0-9]{3,8}" required>
+        <br><br>
+        <input type="submit" value="Process">
+    </form>
+</body>
+</html>
+<!-- 
+1) Only One Char
+[A-Z]
+[a-z]
+[0-9]
+[!@#$%]
+[abc]
+
+2)Only Two Char
+[A-Z]{2}
+
+3)Two or More than 2
+[A-Z]{2,}
+
+4)2>= and <=8
+[A-Z]{2,8}
+
+5)1 or more than one 
+[A-Z]+
+[abc]
+
+6)1 or more than one 
+[a-z]*
+ -->
+
+ <!-- Zafar -->
+
+
+ <!-- 
+First Name : 
+1)First Letter Capital
+2)lwr Letter (3,5)
+3)special sy(^\?,)
+4) dot (Last)
+
+
+
+password :
+1)First Letter Capital
+2)lwr Letter (3,5)
+3)special Symbol (@)
+4)Numeric (3,8)
+
+
+length=15
+  -->

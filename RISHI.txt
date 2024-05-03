@@ -1,0 +1,128 @@
+<html>
+<head>
+
+<body background="BG.jpg">
+
+
+<marquee behavior="scroll" diection="right" bgcolor="cyan" width="40%" height="50px" hspace="400">
+        <font size="6" color="green"><i><b>HTML LANGUAGE</b></i></font>
+    </marquee>
+
+<pre>
+<h3><center><i><mark>FOUNDER:-Tim Berners-Lee</mark></i></center></h3>
+<center><img src="HTMLLANGUAG.jpg" width="250" height="250"></center>
+<br>
+ <marquee behavior="alternate" diection="left" bgcolor="nature gray" width="40%" height="40px" hspace="400">
+        <font size="6" color="black">-:FEATURE:-</font>
+    </marquee>
+<font size="5" color="dark red">-->It is easy to learn and easy to use.</font>
+<font size="5" color="yellow">-->It is plateform-independent.</font>
+<font size="5" color="dark red">-->Hypertext can be added to the text.</font>
+<font size="5" color="yellow">-->It is markup language.</font>      
+</pre>
+
+<marquee behavior="scroll" diection="right" bgcolor="cyan" width="40%" height="50px" hspace="400">
+        <font size="6" color="green"><i><b>C LANGUAGE</b></i></font>
+    </marquee>
+
+<pre>
+<h3><center><i><mark>FOUNDER:-Dennis Ritchie</mark></i></center></h3>
+<center><img src="CLC.jpg" width="250" height="250"></center>
+<br>    
+<marquee behavior="alternate" diection="left" bgcolor="nature gray" width="40%" height="40px" hspace="400">
+        <font size="6" color="black">-:FEATURE:-</font>
+    </marquee>
+<font size="5" color="nature green">-->It is simple and efficient.</font>
+<font size="5" color="pink">-->It is fast and portability.</font>
+<font size="5" color="nature green">-->Dynamic Memory Management.</font>
+<font size="5" color="pink">-->Pointers and Recursion.</font>      
+</pre>
+
+<marquee behavior="scroll" diection="right" bgcolor="cyan" width="40%" height="50px" hspace="400">
+        <font size="6" color="green"><i><b>C++ LANGUAGE</b></i></font>
+    </marquee>
+
+<pre>
+<h3><center><i><mark>FOUNDER:-Bjarne Stroustrup</mark></i></center></h3>
+<center><img src="C++.jpg" width="250" height="250"></center>
+<br>    
+<marquee behavior="alternate" diection="left" bgcolor="nature gray" width="40%" height="40px" hspace="400">
+        <font size="6" color="black">-:FEATURE:-</font>
+    </marquee>
+<font size="5" color="dark red">-->It is object oriented and simple.</font>
+<font size="5" color="yellow">-->It is Mid level programmimng language.</font>
+<font size="5" color="dark red">-->It is Memory Management and powerful & faster.</font>
+<font size="5" color="yellow">-->It is compiler based and syntax based.</font>      
+</pre>
+
+<marquee behavior="scroll" diection="right" bgcolor="cyan" width="40%" height="50px" hspace="400">
+        <font size="6" color="green"><i><b>CSS LANGUAGE</b></i></font>
+    </marquee>
+
+<pre>
+<h3><center><i><mark>FOUNDER:-Hakon Wium Lie</mark></i></center></h3>
+<center><img src="CSS.jpg" width="250" height="250"></center>
+<br>    
+<marquee behavior="alternate" diection="left" bgcolor="nature gray" width="40%" height="40px" hspace="400">
+        <font size="6" color="black">-:FEATURE:-</font>
+    </marquee>
+<font size="5" color="nature green">-->It is saves time and easy maintenance.</font>
+<font size="5" color="pink">-->It is pages load faster.</font>
+<font size="5" color="nature green">-->It is Multiple Device Compatibility.</font>
+<font size="5" color="pink">-->It is Global web standard.</font>      
+</pre>
+
+<marquee behavior="scroll" diection="right" bgcolor="cyan" width="40%" height="50px" hspace="400">
+        <font size="6" color="green"><i><b>PYTHON LANGUAGE</b></i></font>
+    </marquee>
+
+<pre>
+<h3><center><i><mark>FOUNDER:-Guido van Rossum</mark></i></center></h3>
+<center><img src="PYTHON.jpg" width="250" height="250"></center>
+<br>    
+<marquee behavior="alternate" diection="left" bgcolor="nature gray" width="40%" height="40px" hspace="400">
+        <font size="6" color="black">-:FEATURE:-</font>
+    </marquee>
+<font size="5" color="dark red">-->Easy to read. Python code looks like simple English word.</font>
+<font size="5" color="yellow">-->It is free and open-source.</font>
+<font size="5" color="dark red">-->It is Interpreted and Portable.</font>
+<font size="5" color="yellow">-->It is high level programming language.</font>      
+</pre>
+
+<marquee behavior="scroll" diection="right" bgcolor="cyan" width="40%" height="50px" hspace="400">
+        <font size="6" color="green"><i><b>JAVA LANGUAGE</b></i></font>
+    </marquee>
+
+<pre>
+<h3><center><i><mark>FOUNDER:-James Gosling</mark></i></center></h3>
+<center><img src="JAVA.jpg" width="250" height="250"></center>
+<br>    
+<marquee behavior="alternate" diection="left" bgcolor="nature gray" width="40%" height="40px" hspace="400">
+        <font size="6" color="black">-:FEATURE:-</font>
+    </marquee>
+<font size="5" color="nature green">-->It is Independent of plateform.</font>
+<font size="5" color="pink">-->It is simple ,secure and portable.</font>
+<font size="5" color="nature green">-->It is Multithreaded.</font>
+<font size="5" color="pink">-->It is everything is an object.</font>      
+</pre>
+
+<marquee behavior="scroll" diection="right" bgcolor="cyan" width="40%" height="50px" hspace="400">
+        <font size="6" color="green"><i><b>JAVA SCRIPT LANGUAGE</b></i></font>
+    </marquee>
+
+<pre>
+<h3><center><i><mark>FOUNDER:-Brendan Eich</mark></i></center></h3>
+<center><img src="JAVASCRIPT.jpg" width="250" height="250"></center>
+<br>    
+<marquee behavior="alternate" diection="left" bgcolor="nature gray" width="40%" height="40px" hspace="400">
+        <font size="6" color="black">-:FEATURE:-</font>
+    </marquee>
+<font size="5" color="dark red">-->It is generating HTML content and greater control.</font>
+<font size="5" color="yellow">-->It is Independent of plateform.</font>
+<font size="5" color="dark red">-->It is Handling dates and time.</font>
+<font size="5" color="yellow">-->It is validating user's input. Java script is very useful while using forms.</font>      
+</pre>
+
+</body>
+</head>
+</html>

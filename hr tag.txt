@@ -1,0 +1,9 @@
+<html>
+<head>
+<titlt><h1><center><i>MANALI DESTINATION</i></center></h1></title><br>
+<body background="KULUMANALI.jpg">
+<h1><center><font size="5" color="blue" face="Bahnschrift Light">A gift of the Himalayas to the world,<br> 
+Manali is a beautiful township nestled in the picturesque Beas River valley.<br>It is a rustic enclave known for its cool climate and snow-capped mountains,<br>offering respite to tourists escaping scorching heat of the plains.</center></h1>
+</body>
+</head>
+</html>

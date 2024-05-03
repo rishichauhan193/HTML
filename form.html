@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+    <title>FORM</title>
+    <style>
+        .formcss {
+            width: 500px;
+            height: 500px;
+            background-color: aquamarine;
+            margin: 20px auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form class="formcss">
+        <div>
+            <label>username</label>
+            <input type="text" id="username" name="username" placeholder="please enter your name">
+        </div>
+        <div>
+            <label>user email</label>
+            <input type="email" id="email" name="useremail">
+        </div>
+        <div>
+            <label>password</label>
+            <input type="password" id="password" name="paasword">
+        </div>
+        <div>
+            <label>GENDER</label>
+            MALE<input type="radio" id="gender" name="gender" value="male">
+            FEMALE<input type="radio" id="gender" name="gender" value="female">
+        </div>
+        <div>
+          <label>HOBBIES</label>
+          <input type="checkbox" name="hobbies" value="Reading">Reading
+          <input type="checkbox" name="hobbies" value="Learning">Learning
+          <input type="checkbox" name="hobbies" value="Writting">Writting
+          <input type="checkbox" name="hobbies" value="Sleeping">Sleeping
+        </div>
+        <div>
+            <label>PHONE</label>
+            <input type="tel" id="phone">
+        </div>
+        <div>
+            ENTER YOUR AGE
+            <input type="number" name="age">
+        </div>
+        <div>
+            <label>ADDRESS</label>
+            <textarea name="address"></textarea>
+        </div>
+        <div>
+            <input type="file" name="profile">
+        </div>
+        <div>
+            SELECT CITY:-<select name="dropdown">
+                <option value="DELHI">DELHI</option>
+                <option value="MUMBAI">MUMBAI</option>
+                <option value="CHENNAI">CHENNAI</option>
+                <option value="HYDERABAD">HYDERABAD</option></select>
+        </div>
+        <div>
+            <label>SELECT COLOR</label>
+            <input type="color" name="col" id="col">
+        </div>
+        <div>
+            <label>SELECT DATE</label>
+            <input type="date" name="dt" id="dt">
+        </div>
+        <div>
+            <label>SELECT TIME</label>
+            <input type="time" name="tm" id="tm">
+        </div>
+    </form>
+</body>
+</html>
